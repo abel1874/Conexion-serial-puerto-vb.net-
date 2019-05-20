@@ -31,6 +31,7 @@ Partial Class Form1
         Me.btnenviar = New System.Windows.Forms.Button()
         Me.lblestado = New System.Windows.Forms.Label()
         Me.sppuerto = New System.IO.Ports.SerialPort(Me.components)
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'cmbPort
@@ -99,11 +100,21 @@ Partial Class Form1
         'sppuerto
         '
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(171, 106)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 38)
+        Me.Button1.TabIndex = 7
+        Me.Button1.Text = "ENVIAR"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(416, 251)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.lblestado)
         Me.Controls.Add(Me.btnenviar)
         Me.Controls.Add(Me.txtenvia)
@@ -125,5 +136,5 @@ Partial Class Form1
     Friend WithEvents btnenviar As System.Windows.Forms.Button
     Friend WithEvents lblestado As System.Windows.Forms.Label
     Friend WithEvents sppuerto As System.IO.Ports.SerialPort
-
+    Friend WithEvents Button1 As Button
 End Class
