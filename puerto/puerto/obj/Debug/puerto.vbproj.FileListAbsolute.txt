@@ -1,0 +1,26 @@
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\bin\Debug\puerto.exe.config
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\bin\Debug\puerto.exe
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\bin\Debug\puerto.pdb
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\bin\Debug\puerto.xml
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\obj\Debug\puerto.Form1.resources
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\obj\Debug\puerto.Resources.resources
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\obj\Debug\puerto.vbproj.GenerateResource.Cache
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\obj\Debug\puerto.exe
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\obj\Debug\puerto.xml
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto\obj\Debug\puerto.pdb
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto\puerto\bin\Debug\puerto.exe.config
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto\puerto\obj\Debug\puerto.exe
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto\puerto\obj\Debug\puerto.xml
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto\puerto\obj\Debug\puerto.pdb
+C:\Users\AMORENO\Desktop\puerto\puerto\bin\Debug\puerto.exe.config
+C:\Users\AMORENO\Desktop\puerto\puerto\bin\Debug\puerto.exe
+C:\Users\AMORENO\Desktop\puerto\puerto\bin\Debug\puerto.pdb
+C:\Users\AMORENO\Desktop\puerto\puerto\bin\Debug\puerto.xml
+C:\Users\AMORENO\Desktop\puerto\puerto\obj\Debug\puerto.vbprojAssemblyReference.cache
+C:\Users\AMORENO\Desktop\puerto\puerto\obj\Debug\puerto.Form1.resources
+C:\Users\AMORENO\Desktop\puerto\puerto\obj\Debug\puerto.Resources.resources
+C:\Users\AMORENO\Desktop\puerto\puerto\obj\Debug\puerto.vbproj.GenerateResource.cache
+C:\Users\AMORENO\Desktop\puerto\puerto\obj\Debug\puerto.vbproj.CoreCompileInputs.cache
+C:\Users\AMORENO\Desktop\puerto\puerto\obj\Debug\puerto.exe
+C:\Users\AMORENO\Desktop\puerto\puerto\obj\Debug\puerto.xml
+C:\Users\AMORENO\Desktop\puerto\puerto\obj\Debug\puerto.pdb
